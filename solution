@@ -9,8 +9,8 @@ This machine is running with a CentOS 7.6 inside the network with only one Nic C
 **Netmaks:** _255.255.255.0_
 
 **2) Server-A**
-This machine is also running with a CentOS 7.6 with two Nic Cards, enp0s3 and enp0s8, spread in two distinct networks. The only
-opens port in this server are 22 (ssh) and 8000 (nginx).
+This machine is also running with a CentOS 7.6 with two Nic Cards, enp0s3 and enp0s8, spread in two distinct networks. 
+The only opens port in this server are 22 (ssh) and 8000 (nginx).
 
 enp0s3
 **IP:** _192.168.1.240_
@@ -28,7 +28,7 @@ this server are 22 (ssh) and 8000 (apache).
 **IP:** _172.16.1.2_
 **Netmaks:** _255.255.0.0_
 
-##Solutions:
+## Solutions:
 I tried to solve the problem in a simple, easy and without major complications. Then, for this effort, 
 the following steps were performed:
 
