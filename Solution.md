@@ -3,6 +3,10 @@
 ## My environment:
 
 
+I developed a small virtualbox architecture where it was created three virtual machines in two differents network:
+
+
+
 **1) Client-A** 
 
 This machine is running with a CentOS 7.6 inside the network with only one Nic Card. 
